@@ -1,0 +1,26 @@
+{
+  "name": "sendfy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizortega27/Bot-Discord.js.git"
+  },
+  "keywords": [
+    "marketing",
+    "discord"
+  ],
+  "author": "Gian Paulo Navarro Luiz Luiz Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizortega27/Bot-Discord.js/issues"
+  },
+  "homepage": "https://github.com/luizortega27/Bot-Discord.js#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
